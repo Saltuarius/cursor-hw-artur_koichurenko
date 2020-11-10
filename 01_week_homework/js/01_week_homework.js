@@ -1,8 +1,8 @@
 'use strict'
 
-let product_a = 15.678;
-let product_b = 123.965;
-let product_c = 90.2345;
+const product_a = 15.678;
+const product_b = 123.965;
+const product_c = 90.2345;
 
 // Part 1
 
